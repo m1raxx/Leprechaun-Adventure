@@ -1,5 +1,6 @@
 # Leprechaun-Adventure
 A prototype platformer game I created in 2020 for my graduation project.
+The game is created on Unity.
 
 ![image](https://github.com/user-attachments/assets/c1fd026f-e294-44bb-b81c-a9b3f2c9da1c)
 
